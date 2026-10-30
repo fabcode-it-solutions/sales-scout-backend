@@ -1,6 +1,4 @@
 node_modules/
-.env
-.env.local
 .DS_Store
 *.log
 uploads/
@@ -12,5 +10,5 @@ downloads/
 temp_auto_push.bat
 *.bat
 temp_interactive_push.bat
-.env.production
 branch_structure.json
+config.bat
